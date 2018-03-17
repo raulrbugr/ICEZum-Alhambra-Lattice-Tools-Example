@@ -5,7 +5,7 @@ the application for IceZum Alhambra FPGA development board (iCE40HX1K-TQ144 from
 1º Step, set up the enviroment.
 
 
-1- Download and install the ICEcube2 environment (the files are at the finish in this link): http://www.latticesemi.com/iCEcube2
+1- Download and install the ICEcube2 environment (the files are at the finish in this link, the manuals too): http://www.latticesemi.com/iCEcube2
 
 2- Download and install the Diamond Programmer: http://www.latticesemi.com/programmer
 
