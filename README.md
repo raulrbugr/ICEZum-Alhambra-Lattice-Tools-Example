@@ -1,5 +1,5 @@
 
-This repo cotains a little example that you can use to develop projects in VHDL o Verilog using the Lattice tools and synthesize
+This repo cotains a little example that you can use to develop projects in VHDL or Verilog using the Lattice tools and synthesize
 the application for IceZum Alhambra FPGA development board (iCE40HX1K-TQ144 from lattice).
 
 1º Step, set up the enviroment.
