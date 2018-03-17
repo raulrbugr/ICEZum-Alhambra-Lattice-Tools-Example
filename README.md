@@ -1,5 +1,5 @@
 
-This repo cotains a little example that you can use to develop projects in VHDL or Verilog using the Lattice tools and synthesize
+This repo contains a little example that you can use to develop projects in VHDL or Verilog using the Lattice tools and synthesize
 the application for IceZum Alhambra FPGA development board (iCE40HX1K-TQ144 from lattice).
 
 1º Step, set up the enviroment.
@@ -22,8 +22,7 @@ the application for IceZum Alhambra FPGA development board (iCE40HX1K-TQ144 from
 2º Step, run an blink LED example.
 
  Now is the moment to built our own project, for this you can follow this example from this blog ( thanks Brian Christian you are so cool!!),
-	it is based on ICEstick board, but are the sames steps until the "PROGRAM THE DEVICE" chapter step6, in this step you must use the configuration
-	that you can see in the image file in this repo. The step 7 and 8 are the same as ICEstick tutorial.
+	it is based on ICEstick board, but are the sames steps until the "PROGRAM THE DEVICE" chapter step6, in this step you must use the configuration that you can see in the image file in this repo. The step 7 and 8 are the same as ICEstick tutorial.
 
   	 http://thebcfactor.net/electronics/programmable-logic/lattice-icestick/example-1/ 
 
