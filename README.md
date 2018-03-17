@@ -10,8 +10,11 @@ the application for IceZum Alhambra FPGA development board (iCE40HX1K-TQ144 from
 2- Download and install the Diamond Programmer: http://www.latticesemi.com/programmer
 
 3- Obtain the license to develop, it is free but you have to register in lattice to get one. 
+	
 	3.1-Obtain your MAC address for your network interface
+	
 	3.2-Go to this link to obtain the license: http://www.latticesemi.com/Support/Licensing/DiamondAndiCEcube2SoftwareLicensing/iceCube2
+	
 	3.3-Execute the licensesetup.exe ( You should have this installed in your PC) and search the license file( if the request in 
 		the previous link was succesfull you should have the license in your email)
 
